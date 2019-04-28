@@ -1,0 +1,1 @@
+## this is HelloWorld Nodejs sample that can work in Azure.
